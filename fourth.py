@@ -1,0 +1,1 @@
+print('First line \n Second line \n Third line   '' foourth line ') 
